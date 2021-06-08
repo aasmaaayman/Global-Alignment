@@ -1,0 +1,11 @@
+Please enter question number 1, 2, 3, 4, 5, 6, 7 or enter 0 to exit:
+Please, enter original matrix values:
+The original matrix:
+1 
+2 3 
+4 5 6 
+The original matrix:
+1 
+3 2 
+6 5 4 
+Please enter question number 1, 2, 3, 4, 5, 6, 7 or enter 0 to exit:

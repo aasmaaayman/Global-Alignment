@@ -1,0 +1,17 @@
+Enter the first sequence: 
+Enter the second sequence: 
+*** Scoring Weights ***
+Enter the match Greater than Zero : 
+Enter the mismatch To be Less than Match OR Greater than: 
+Enter the gap penality to be Less than OR Equal Zero: 
+Invalid Gap Penalty value 
+Congratulations 
+0
++2
++2
++0
++0
++0
++0
++0
++2
